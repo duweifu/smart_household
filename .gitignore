@@ -99,3 +99,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+model/sogou_6_2_500.model*
